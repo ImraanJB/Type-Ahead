@@ -6,6 +6,7 @@ A city search bar created to search citites of United States.
 What I learned on this mini-project.
 
 fetch
+
 In this case, fetch is used to retrieve data from a url leading to a JSON data source.
 
 fetch(endpoint).then(blob => blob.json());
